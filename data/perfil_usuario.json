@@ -1,0 +1,46 @@
+{
+  "id_usuario": "usr_987654321",
+  "dados_pessoais": {
+    "nome": "Daniel",
+    "idade": 15,
+    "ocupacao": "Estudante (9º ano)",
+    "sonho_principal": "Ir ao Rock in Rio e comprar GTA 6 no lançamento"
+  },
+  "saude_financeira": {
+    "fonte_de_renda": "Mesada",
+    "renda_mensal_fixa": 150.00,
+    "saldo_atual": -15.50,
+    "limites_de_gastos": {
+      "jogos_e_microtransacoes": 30.00,
+      "delivery": 40.00
+    }
+  },
+  "metas": [
+    {
+      "id_meta": "meta_01",
+      "titulo": "Ingresso Rock in Rio",
+      "valor_alvo": 800.00,
+      "valor_acumulado": 50.00,
+      "prazo_meses": 8,
+      "status": "Atrasada"
+    },
+    {
+      "id_meta": "meta_02",
+      "titulo": "Fundo GTA 6",
+      "valor_alvo": 350.00,
+      "valor_acumulado": 0.00,
+      "prazo_meses": 12,
+      "status": "Não iniciada"
+    }
+  ],
+  "gamificacao": {
+    "nivel_atual": 2,
+    "pontos_de_aura": 120,
+    "conquistas_desbloqueadas": ["Sobreviveu à 1ª semana do mês", "Instalou o Guruzinho"]
+  },
+  "status_bot": {
+    "nivel_de_caos_atual": 5,
+    "humor_capivara": "Passivo-agressivo_Nivel_Maximo",
+    "ultimo_alerta_enviado": "2026-09-14T21:30:00Z"
+  }
+}

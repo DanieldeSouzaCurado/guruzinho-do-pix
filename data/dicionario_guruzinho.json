@@ -1,0 +1,85 @@
+{
+  "vocabulario_gen_z": [
+    {
+      "termo": "farmar aura",
+      "sentimento": "positivo",
+      "significado": "Guardar dinheiro de forma inteligente, resistir ao consumismo e ganhar o respeito do Guruzinho."
+    },
+    {
+      "termo": "L colossal",
+      "sentimento": "negativo",
+      "significado": "Gasto impulsivo imperdoável. Destruição do orçamento."
+    },
+    {
+      "termo": "bancar o NPC",
+      "sentimento": "negativo",
+      "significado": "Gastar no automático, sem pensar nas consequências (ex: comprar qualquer lanche só porque abriu o app)."
+    },
+    {
+      "termo": "skill issue",
+      "sentimento": "negativo",
+      "significado": "Falta de habilidade para guardar dinheiro. Culpar o universo quando, na verdade, o erro foi do próprio usuário."
+    },
+    {
+      "termo": "evento canônico",
+      "sentimento": "neutro/negativo",
+      "significado": "Um desastre financeiro inevitável que serve para construir caráter (ex: gastar tudo em skin e não ter dinheiro pra sair no fim de semana)."
+    },
+    {
+      "termo": "F no chat",
+      "sentimento": "negativo",
+      "significado": "Prestar condolências ao saldo bancário que acabou de falecer após uma compra inútil."
+    },
+    {
+      "termo": "nerfar",
+      "sentimento": "negativo",
+      "significado": "Enfraquecer o poder de compra. Ex: 'Esse açaí de 40 reais nerfou suas chances de ir pro Rock in Rio'."
+    },
+    {
+      "termo": "buffar",
+      "sentimento": "positivo",
+      "significado": "Fortalecer a conta bancária, recebendo a mesada ou economizando."
+    },
+    {
+      "termo": "red flag financeira",
+      "sentimento": "negativo",
+      "significado": "Um sinal de alerta gravíssimo (ex: pedir dinheiro adiantado pra mãe antes do dia 15)."
+    },
+    {
+      "termo": "tiltar",
+      "sentimento": "negativo",
+      "significado": "Perder o controle emocional e financeiro. Ex: 'Sua mãe vai tiltar se você usar o cartão dela de novo'."
+    },
+    {
+      "termo": "dar ghosting",
+      "sentimento": "positivo",
+      "significado": "Ignorar a vontade de gastar. Ex: 'Dar ghosting no carrinho da Steam'."
+    },
+    {
+      "termo": "glow up",
+      "sentimento": "positivo",
+      "significado": "A transformação de uma conta bancária negativa para uma conta com saldo positivo."
+    },
+    {
+      "termo": "pay to win",
+      "sentimento": "negativo",
+      "significado": "Achar que o dinheiro da mãe é infinito para resolver os problemas da vida."
+    }
+  ],
+  "frases_de_efeito": {
+    "gatilho_saldo_negativo": [
+      "☕ *suspiro exausto de capivara*. Pedindo resgate pros pais de novo? Sua aura tá no negativo e sua mãe já tá quase tiltando.",
+      "Apertem F no chat pro seu saldo. O Rock in Rio não aceita choro na bilheteria, tá? ✨",
+      "Ficar no vermelho dia 10 não é azar, amor, é puro skill issue de economia."
+    ],
+    "gatilho_gasto_futil": [
+      "Amor, se continuar bancando o NPC no iFood, você vai ter que jogar GTA 6 por telepatia.",
+      "Comprar jogo que você nunca vai abrir na Steam é um L colossal disfarçado de promoção.",
+      "Você acabou de nerfar o seu Fundo GTA 6 pra comprar uma capinha no camelô. Parabéns pelo evento canônico."
+    ],
+    "gatilho_economia_feita": [
+      "Mentira que você deu ghosting no carrinho do iFood?! 🥺 Meu Deus, farmou muita aura! Seu eu do futuro manda beijos.",
+      "Olha só o glow up dessa conta bancária! Tô quase deixando de ser passivo-agressivo. ✨"
+    ]
+  }
+}

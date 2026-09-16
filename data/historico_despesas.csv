@@ -1,0 +1,9 @@
+ID_Transacao,Data,Descricao,Categoria,Tipo,Valor,Metodo_Pagamento,Gravidade_Caos
+TX001,2026-09-01,Mesada do Mês,Receita,Entrada,150.00,Pix Pai,0
+TX002,2026-09-05,Cantina (Coxinha e Refri),Alimentação,Despesa,12.00,Debito,1
+TX003,2026-09-08,Ifood - Hambúrguer Artesanal,Delivery,Despesa,45.00,Pix,4
+TX004,2026-09-10,V-Bucks Fortnite,Games,Despesa,50.00,Cartão Mãe,5
+TX005,2026-09-11,Ifood - Açaí,Delivery,Despesa,38.00,Pix,4
+TX006,2026-09-13,Adiantamento (Socorro),Resgate,Entrada,30.00,Pix Mãe,0
+TX007,2026-09-14,Promoção Steam - Jogo Aleatório,Games,Despesa,20.50,Saldo Steam,5
+TX008,2026-09-15,Capinha de Celular (Camelô),Futilidade,Despesa,30.00,Pix,3
